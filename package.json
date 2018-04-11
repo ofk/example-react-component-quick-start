@@ -17,5 +17,8 @@
     "react-dom": "^16.0.0",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1"
+  },
+  "dependencies": {
+    "react-component-quick-start": "../react-component-quick-start"
   }
 }
